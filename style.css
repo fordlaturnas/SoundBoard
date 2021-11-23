@@ -6,7 +6,7 @@
 
 body {
   background-color: rgb(161, 100, 223);
-  font-family: 'Poppins', 'sans-serif';
+  font-family: 'Poppins', sans-serif;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -34,7 +34,6 @@ body {
   font-family: inherit;
   cursor: pointer;
 }
-
 .btn:hover {
   opacity: 0.9;
 }
